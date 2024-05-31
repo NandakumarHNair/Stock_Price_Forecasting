@@ -1,0 +1,11 @@
+
+## Requirements
+- pandas
+- numpy
+- scikit-learn
+
+## How to Run
+1. Clone the repository
+2. Install the required libraries using `pip install -r requirements.txt`
+3. Run the `src/stock_forecasting.py` script
+4. Check the results in `predictions.csv`
